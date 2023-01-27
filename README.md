@@ -5,13 +5,13 @@ HARDWARE:<br/>
 - HUANAN JINPAI B75 Pro<br/>
 Support Mac Version:<br/>
 - macOS Catalina 10.15.7 <br/>
-BIOS <br/>
+BIOS: <br/>
 - Disable<br/>
   * above 4G encoding<br/>
 ref. OC install guide<br/>
 - Enable<br/>
   ref. OC install guide<br/>
-OC<br/>
+OC:<br/>
 - SMBIOS iMacPro1,1<br/>
 - SMBIOS MacPro7,1(not try)<br/>
 Other<br/>
