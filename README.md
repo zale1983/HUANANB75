@@ -20,4 +20,5 @@ OC SMBIOS:<br/>
  - SMBIOS MacPro7,1(not try)<br/>
 <br/>
 Other:<br/>
-B75 May not support UEFI bios, need a USB stick for BOOT MacOS.<br/>
+B75 May not support UEFI bios, need a USB stick for BOOT MacOS, Or follow OC GUIDE Legacy Boot flow.<br/>
+USE YOUR OWN SIMBIOS
